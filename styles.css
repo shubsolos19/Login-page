@@ -17,3 +17,11 @@ a {
   color: var(--white);
   text-decoration: none;
 }
+
+body {
+  font-family: "Roboto", sans-serif;
+  background-image: url("assets/header.jpg");
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
