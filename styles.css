@@ -25,3 +25,9 @@ body {
   background-size: cover;
   background-repeat: no-repeat;
 }
+
+.container {
+  display: grid;
+  position: relative;
+  isolation: isolate;
+}
