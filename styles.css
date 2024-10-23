@@ -54,3 +54,11 @@ body {
   justify-content: center;
   flex-direction: column;
 }
+
+.content h1 {
+  margin-bottom: 1rem;
+  font-size: 2.75rem;
+  font-weight: 500;
+  color: var(--white);
+  text-align: center;
+}
