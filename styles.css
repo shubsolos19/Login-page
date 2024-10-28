@@ -96,3 +96,8 @@ body {
   background-color: transparent;
   border-bottom: 1px solid var(--text-light);
 }
+
+.input__group input::placeholder {
+  font-size: 1rem;
+  color: var(--text-light);
+}
