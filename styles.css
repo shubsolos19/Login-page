@@ -108,3 +108,7 @@ body {
   justify-content: space-between;
   gap: 1rem;
 }
+
+.actions > div span {
+  color: var(--text-light);
+}
