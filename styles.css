@@ -112,3 +112,17 @@ body {
 .actions > div span {
   color: var(--text-light);
 }
+
+.content button {
+  margin-bottom: 2rem;
+  padding: 1rem;
+  outline: none;
+  border: none;
+  font-size: 1rem;
+  color: var(--white);
+  background-color: var(--text-dark);
+  border-radius: 5px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
