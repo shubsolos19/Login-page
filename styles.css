@@ -126,3 +126,7 @@ body {
   transition: 0.3s;
 }
 
+.content button:hover {
+  color: var(--text-dark);
+  background-color: var(--text-light);
+}
